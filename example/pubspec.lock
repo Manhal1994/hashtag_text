@@ -75,7 +75,7 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
-  hashtag_text:
+  hashtagable_text:
     dependency: "direct main"
     description:
       path: ".."

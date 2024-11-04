@@ -34,7 +34,7 @@ dependencies:
 
 
   cupertino_icons: ^1.0.6
-  hashtag_text:
+  hashtagable_text:
     path: ../
 
 dev_dependencies:
