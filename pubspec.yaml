@@ -1,6 +1,6 @@
 name: hashtagable_text
 description: "Text widgets that can detect hashtags with callback when a user tap on the hashtag."
-version: 0.0.1
+version: 0.0.2
 repository: https://github.com/Manhal1994/hashtag_text.git
 
 environment:
